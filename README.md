@@ -24,6 +24,10 @@ To run the program, simply say
 
     $ fortune anarchist-collection
 
+Here is a more whimsical example:
+
+![twilight sparkle the anarchist](https://notabug.org/PangolinTurtle/BLAG-fortune/raw/master/ponysay.png)
+
 Quote Sources
 -------------
 I have three sources for all my quotes:
