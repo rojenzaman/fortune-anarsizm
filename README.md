@@ -31,7 +31,7 @@ Here is a more whimsical example:
 Quote Sources
 -------------
 I have three sources for all my quotes:
-- Wikiquote
-- BrainyQuote (Generally requires verification)
-- Marxists Internet Archive
+- [Wikiquote](https://en.wikiquote.org)
+- [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
+- [Marxists Internet Archive](https://marxists.org)
 
