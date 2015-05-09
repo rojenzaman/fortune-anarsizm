@@ -26,7 +26,7 @@ To run the program, simply say
 
 Here is a more whimsical example:
 
-![twilight sparkle the anarchist](https://notabug.org/PangolinTurtle/BLAG-fortune/raw/master/ponysay.png)
+![twilight sparkle the anarchist](ponysay.png)
 
 Quote Sources
 -------------
