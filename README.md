@@ -36,7 +36,7 @@ To do this quickly, enter the following command:
 
     $ echo -e "\nfortune -s anarchist-collection\necho" >> $HOME/.bashrc
 
-To disable the fortunes, comment these lines in $HOME/.bashrc:
+To disable the fortunes, remove these lines from $HOME/.bashrc:
 
     fortune -s anarchist-collection
     echo
