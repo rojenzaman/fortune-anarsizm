@@ -28,6 +28,19 @@ Here is a more whimsical example:
 
 ![twilight sparkle the anarchist](ponysay.png)
 
+Show fortunes on Bash startup
+-----------------------------
+> I want to see fortunes when my terminal starts, as in BLAG 140000!
+
+To do this quickly, enter the following command:
+
+    $ echo -e "\nfortune -s anarchist-collection\necho" >> $HOME/.bashrc
+
+To disable the fortunes, comment these lines in $HOME/.bashrc:
+
+    fortune -s anarchist-collection
+    echo
+
 Quote Sources
 -------------
 I have three sources for all my quotes:
