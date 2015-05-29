@@ -23,6 +23,8 @@ Running
 To run the program, simply say
 
     $ fortune anarchist-collection
+    When the people are being beaten with a stick, they are not much happier if it is called "the People's Stick."
+                ----+- Mikhail Bakunin -+----
 
 Here is a more whimsical example:
 
