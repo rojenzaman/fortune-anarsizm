@@ -49,6 +49,7 @@ Other well-known anarchists:
 - Maria Nikiforova
 - L. Susan Brown
 - Noam Chomsky
+- Voline
 
 Other anarchist resources:
 --------------------------
