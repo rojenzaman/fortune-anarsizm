@@ -50,6 +50,11 @@ Other well-known anarchists:
 - L. Susan Brown
 - Noam Chomsky
 - Voline
+- Dave Andrews
+- Henry Appleton
+- Adolph Fischer
+- Buenaventura Durruti
+- Emile Armand
 
 Other anarchist resources:
 --------------------------
