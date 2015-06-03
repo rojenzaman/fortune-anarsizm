@@ -8,6 +8,11 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 Note: I am already done with the people included with the original English anarchism fortune, and am moving on to the people included with the french anarchism fortune.
 
+Touch-up:
+---------
+- Max Stirner
+- Pierre Joseph Proudhon
+
 From anarchism-fr:
 ------------------
 - Mikhail Bakunin (in progress)
