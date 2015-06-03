@@ -15,7 +15,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Mikhail Bakunin (in progress)
 - Anselme Bellegarrigue
 - Alexander Berkman
 - Janet Biehl
