@@ -48,7 +48,7 @@ To disable the fortunes, remove these lines from $HOME/.bashrc:
 
 Quote Sources
 -------------
-I have three sources for all my quotes:
+I have four sources for all my quotes:
 - [Wikiquote](https://en.wikiquote.org)
 - [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
 - [Marxists Internet Archive](https://marxists.org)
