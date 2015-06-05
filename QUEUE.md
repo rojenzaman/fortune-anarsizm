@@ -14,6 +14,7 @@ None
 
 From anarchism-fr:
 ------------------
+- Peter Kropotkin
 - Anselme Bellegarrigue
 - Alexander Berkman
 - Janet Biehl
@@ -22,7 +23,6 @@ From anarchism-fr:
 - Jean Grave
 - Emile Henry
 - Marius Jacob
-- Peter Kropotkin
 - Raymond Goethals
 - Albert Libertad
 - Nestor Makhno
@@ -37,6 +37,7 @@ From anarchism-fr:
 
 Other well-known anarchists:
 ----------------------------
+- George Woodcock
 - Murray Bookchin
 - Bob Black
 - Lysander Spooner
