@@ -1,8 +1,8 @@
-![red and black star](rb-star.png)
-
 BLAG Fortune Assortment Project
 ===============================
 This is my repository for my ongoing project to have English language anarchist fortunes in BLAG.
+
+![red and black star](rb-star.png)
 
 Requirements
 ------------
