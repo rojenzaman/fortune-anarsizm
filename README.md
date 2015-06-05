@@ -52,4 +52,5 @@ I have three sources for all my quotes:
 - [Wikiquote](https://en.wikiquote.org)
 - [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
 - [Marxists Internet Archive](https://marxists.org)
+- [The Anarchist Library](http://theanarchistlibrary.org)
 
