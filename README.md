@@ -24,14 +24,14 @@ Running
 -------
 To run the program, simply say
 
-    $ fortune anarchist-collection
+    $ fortune anarchism
     When the people are being beaten with a stick, they are not much happier 
     if it is called "the People's Stick."
                 ----+- Mikhail Bakunin -+----
 
 Here is a more whimsical example:
 
-![twilight sparkle the anarchist](ponysay.png)
+![anarchist cow](cowsay.png)
 
 Show fortunes on Bash startup
 -----------------------------
@@ -39,11 +39,11 @@ Show fortunes on Bash startup
 
 To do this quickly, enter the following command:
 
-    $ echo -e "\nfortune -s anarchist-collection\necho" >> $HOME/.bashrc
+    $ echo -e "\nfortune -s anarchism\necho" >> $HOME/.bashrc
 
 To disable the fortunes, remove these lines from $HOME/.bashrc:
 
-    fortune -s anarchist-collection
+    fortune -s anarchism
     echo
 
 Quote Sources

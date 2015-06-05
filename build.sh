@@ -4,5 +4,5 @@ if [ ! -d "./build" ]; then
   mkdir "./build"
 fi
 
-cat people/* > build/anarchist-collection
-strfile build/anarchist-collection
+cat people/* > build/anarchism
+strfile build/anarchism
