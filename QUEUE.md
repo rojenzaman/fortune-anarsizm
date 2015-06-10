@@ -59,11 +59,14 @@ Other well-known anarchists:
 - Adolph Fischer
 - Buenaventura Durruti
 - Emile Armand
+- Herbert Read
+- David Graeber
 
 Other anarchist resources:
 --------------------------
 - libcom.org
 - CrimethInc.
+- Invisible Committee
 
 To add to a misc. file:
 -----------------------
@@ -77,3 +80,6 @@ To add to a misc. file:
 - J. R. R. Tolkien
 - Mohandas Gandhi
 - Banksy
+- Malcolm X
+- @gmilcomic
+- George Carlin
