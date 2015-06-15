@@ -81,5 +81,5 @@ To add to a misc. file:
 - Mohandas Gandhi
 - Banksy
 - Malcolm X
-- @gmilcomic
+- gmilcomic
 - George Carlin
