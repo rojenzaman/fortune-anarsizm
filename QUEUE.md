@@ -14,7 +14,6 @@ None
 
 From anarchism-fr:
 ------------------
-- Peter Kropotkin
 - Anselme Bellegarrigue
 - Alexander Berkman
 - Janet Biehl
