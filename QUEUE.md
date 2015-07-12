@@ -61,6 +61,7 @@ Other well-known anarchists:
 - Herbert Read
 - David Graeber
 - Joseph Dejacque
+- Ricardo Flored Magon
 
 Other anarchist resources:
 --------------------------
