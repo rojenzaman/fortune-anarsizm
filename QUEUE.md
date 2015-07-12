@@ -60,6 +60,7 @@ Other well-known anarchists:
 - Emile Armand
 - Herbert Read
 - David Graeber
+- Joseph Dejacque
 
 Other anarchist resources:
 --------------------------
