@@ -10,7 +10,7 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-None
+- Albert Libertad
 
 From anarchism-fr:
 ------------------
@@ -23,7 +23,6 @@ From anarchism-fr:
 - Emile Henry
 - Marius Jacob
 - Raymond Goethals
-- Albert Libertad
 - Nestor Makhno
 - Errico Malatesta
 - Louise Michel
