@@ -35,6 +35,9 @@ From anarchism-fr:
 
 Other well-known anarchists:
 ----------------------------
+- Maria Lacerda de Moura
+- Erich Muhsam
+- Francisco Ferrer
 - George Woodcock
 - Murray Bookchin
 - Bob Black
