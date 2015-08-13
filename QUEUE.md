@@ -11,6 +11,7 @@ Note: I am already done with the people included with the original English anarc
 Touch-up:
 ---------
 - Albert Libertad
+- Erich Muhsam
 
 From anarchism-fr:
 ------------------
@@ -36,7 +37,6 @@ From anarchism-fr:
 Other well-known anarchists:
 ----------------------------
 - Maria Lacerda de Moura
-- Erich Muhsam
 - Francisco Ferrer
 - George Woodcock
 - Murray Bookchin
