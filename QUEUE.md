@@ -37,6 +37,7 @@ From anarchism-fr:
 
 Other well-known anarchists:
 ----------------------------
+- Shawn P. Wilbur
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - George Woodcock
