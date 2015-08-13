@@ -68,6 +68,7 @@ Other well-known anarchists:
 - Joseph Dejacque
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
+- Moxie Marlinspike
 
 Other anarchist resources:
 --------------------------
