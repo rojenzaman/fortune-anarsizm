@@ -3,12 +3,16 @@ DESTDIR	= build
 SRCDIR	= people
 FORTUNE_TARGET	= /usr/share/games/fortunes
 
-all:	$(DESTDIR)/anarchism
+all:	$(DESTDIR)/anarchism.dat
 
-$(DESTDIR)/anarchism:	$(SRCDIR)/*
-		@if [ ! -d "./${DESTDIR}" ]; then mkdir "./${DESTDIR}"; fi
-		@cat $(SRCDIR)/* > $(DESTDIR)/anarchism
+$(DESTDIR)/anarchism.dat:	$(DESTDIR)/anarchism
 		@strfile $(DESTDIR)/anarchism
+
+$(DESTDIR)/anarchism:	$(SRCDIR)/* $(DESTDIR)
+		@cat $(SRCDIR)/* > $(DESTDIR)/anarchism
+
+$(DESTDIR):
+		mkdir "./${DESTDIR}"
 
 clean:;		@echo "cleaning"
 		@rm -f $(DESTDIR)/anarchism.dat $(DESTDIR)/anarchism
