@@ -14,11 +14,11 @@ Installation
 ------------
 To install:
 
-    $ sudo ./install.sh
+    $ sudo make install
 
 To uninstall:
 
-    $ sudo ./uninstall.sh
+    $ sudo make uninstall
 
 Running
 -------
