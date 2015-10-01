@@ -10,8 +10,6 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-- Max Nettlau
-- Albert Libertad
 - Erich Muhsam
 
 From anarchism-fr:
