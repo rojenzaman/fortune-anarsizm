@@ -10,7 +10,6 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-- Alfredo M. Bonanno
 - Max Nettlau
 - Albert Libertad
 - Erich Muhsam
