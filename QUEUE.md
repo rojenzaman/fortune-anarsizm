@@ -10,7 +10,7 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-- Erich Muhsam
+- None
 
 From anarchism-fr:
 ------------------
