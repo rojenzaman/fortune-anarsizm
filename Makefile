@@ -1,26 +1,21 @@
 
-DESTDIR	= build
-SRCDIR	= people
-FORTUNE_TARGET	= /usr/share/games/fortunes
+SRC	= people
+TARGET	= /usr/share/games/fortunes
 
-all:	$(DESTDIR)/anarchism.dat
+all:		anarchism.dat
 
-$(DESTDIR)/anarchism.dat:	$(DESTDIR)/anarchism
-		@strfile $(DESTDIR)/anarchism
+anarchism.dat:	anarchism
+		@strfile anarchism
 
-$(DESTDIR)/anarchism:	$(SRCDIR)/* $(DESTDIR)
-		@cat $(SRCDIR)/* > $(DESTDIR)/anarchism
-
-$(DESTDIR):
-		mkdir "./${DESTDIR}"
+anarchism:;	@cat $(SRC)/* > anarchism
 
 clean:;		@echo "cleaning"
-		@rm -f $(DESTDIR)/anarchism.dat $(DESTDIR)/anarchism
+		@rm -f anarchism.dat anarchism
 
 install:	all
-		cp build/* $(FORTUNE_TARGET)
+		cp anarchism $(TARGET)
+		cp anarchism.dat $(TARGET)
 
-uninstall:
-		rm $(FORTUNE_TARGET)/anarchism
-		rm $(FORTUNE_TARGET)/anarchism.dat
+uninstall:;	rm $(TARGET)/anarchism
+		rm $(TARGET)/anarchism.dat
 
