@@ -31,7 +31,19 @@ To run the program, simply say
 
 Here is a more whimsical example:
 
-![anarchist cow](cowsay.png)
+    $ fortune anarchism | cowsay
+     _________________________________________
+    / Whosoever lays a hand on me in order to \
+    | govern me is a usurper and a tyrant; I  |
+    | declare him my enemy.                   |
+    |                                         |
+    \ ----+- Pierre-Joseph Proudhon -+----    /
+     -----------------------------------------
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
 
 Show fortunes on Bash startup
 -----------------------------
