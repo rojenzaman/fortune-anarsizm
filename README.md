@@ -1,6 +1,8 @@
-BLAG Fortune Assortment Project
-===============================
+BLAG Fortune
+============
 This is my repository for my ongoing project to have English language anarchist fortunes in BLAG.
+
+Currently the only issue is packaging for easy installation. If someone who is familiar with distribution packaging in general, please feel free to make .deb and .rpm packages I can upload.
 
 ![red and black star](rb-star.png)
 
@@ -21,6 +23,8 @@ To uninstall:
     $ sudo make uninstall DISTRO=DEBIAN
 
 Where DISTRO=DEBIAN should be replaced with your distribution's name. For example, on Fedora say DISTRO=FEDORA.
+
+For supported distribution options, [look here](DISTROS.md).
 
 Running
 -------

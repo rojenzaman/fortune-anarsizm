@@ -1,0 +1,12 @@
+Distribution Options
+====================
+Because different distributions put fortune files in different places, the Makefile requires you to specify your distribution.
+
+For example, you must run the following command to install on Debian:
+
+    $ sudo make install DISTRO=DEBIAN
+
+Here are the currently supported distributions. If you want your distribution supported, please file an issue along with the name of the directory for fortune files on that distribution.
+
+- DEBIAN: works for Debian and Ubuntu-based distributions.
+- FEDORA: works for Fedora-based distributions.
