@@ -1,6 +1,9 @@
 
 SRC	= people
-TARGET	= /usr/share/games/fortunes
+FEDORA	= /usr/share/games/fortune/
+DEBIAN	= /usr/share/games/fortunes/
+DISTRO	= FEDORA
+TARGET	= $($(DISTRO))
 
 all:		anarchism.dat
 

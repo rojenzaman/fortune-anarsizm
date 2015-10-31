@@ -14,11 +14,13 @@ Installation
 ------------
 To install:
 
-    $ sudo make install
+    $ sudo make install DISTRO=DEBIAN
 
 To uninstall:
 
-    $ sudo make uninstall
+    $ sudo make uninstall DISTRO=DEBIAN
+
+Where DISTRO=DEBIAN should be replaced with your distribution's name. For example, on Fedora say DISTRO=FEDORA.
 
 Running
 -------
