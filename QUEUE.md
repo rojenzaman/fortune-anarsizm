@@ -14,8 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Anselme Bellegarrigue
-- Alexander Berkman
 - Janet Biehl
 - Sebastien Faure
 - William Godwin
