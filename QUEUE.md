@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Janet Biehl
 - Sebastien Faure
 - William Godwin
 - Jean Grave
