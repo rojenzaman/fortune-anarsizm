@@ -10,11 +10,10 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-- None
+- Sebastien Faure
 
 From anarchism-fr:
 ------------------
-- Sebastien Faure
 - William Godwin
 - Jean Grave
 - Emile Henry
