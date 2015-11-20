@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Jean Grave
 - Emile Henry
 - Marius Jacob
 - Raymond Goethals
