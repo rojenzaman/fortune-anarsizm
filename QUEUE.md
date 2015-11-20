@@ -10,11 +10,10 @@ Note: I am already done with the people included with the original English anarc
 
 Touch-up:
 ---------
-- None
+- William Godwin
 
 From anarchism-fr:
 ------------------
-- William Godwin
 - Jean Grave
 - Emile Henry
 - Marius Jacob
