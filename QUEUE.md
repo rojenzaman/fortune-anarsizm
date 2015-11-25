@@ -70,7 +70,6 @@ Other anarchist resources:
 
 To add to a misc. file:
 -----------------------
-- Otanes
 - Zeno of Citium
 - Laozi
 - Diggers pamphlet
