@@ -74,7 +74,6 @@ To add to a misc. file:
 - Laozi
 - Diggers pamphlet
 - Famous Quakers
-- Bertrand Russell
 - Rabindranath Tagore
 - J. R. R. Tolkien
 - Mohandas Gandhi
