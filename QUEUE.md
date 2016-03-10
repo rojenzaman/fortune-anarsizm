@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Emile Henry
 - Marius Jacob
 - Raymond Goethals
 - Nestor Makhno
