@@ -61,6 +61,7 @@ Other well-known anarchists:
 - Ferdinand Domela Nieuwenhuis
 - Moxie Marlinspike
 - Yakoub Islam
+- Ivan Illich
 
 Other anarchist resources:
 --------------------------
