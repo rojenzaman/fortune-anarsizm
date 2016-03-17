@@ -20,7 +20,7 @@ From anarchism-fr:
 - Henri Cartier-Bresson
 - Hem Day
 - Lanza Del Vasto
-- Leo Ferrer
+- Leo Ferre
 - Claude Harmel
 - Marius Jacob
 - Raymond Goethals
