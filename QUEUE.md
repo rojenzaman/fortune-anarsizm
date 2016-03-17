@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Janet Biehl
 - Georges Brassens
 - Carlo Cafiero
 - John Cage
