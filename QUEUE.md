@@ -68,12 +68,15 @@ Other well-known anarchists:
 - Moxie Marlinspike
 - Yakoub Islam
 - Ivan Illich
+- Kevin Carson
+- Shawn P. Wilbur
 
 Other anarchist resources:
 --------------------------
 - libcom.org
 - CrimethInc.
 - Invisible Committee
+- C4SS
 
 To add to a misc. file:
 -----------------------
