@@ -21,9 +21,7 @@ From anarchism-fr:
 - Henri Cartier-Bresson
 - Hem Day
 - Lanza Del Vasto
-- Sebastien Faure
 - Leo Ferrer
-- Jean Grave
 - Claude Harmel
 - Marius Jacob
 - Raymond Goethals
