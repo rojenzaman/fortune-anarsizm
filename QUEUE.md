@@ -29,7 +29,6 @@ From anarchism-fr:
 Other well-known anarchists:
 ----------------------------
 - Saul Newman
-- Shawn P. Wilbur
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - George Woodcock
