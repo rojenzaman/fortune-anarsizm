@@ -14,17 +14,35 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
+- Janet Biehl
+- Georges Brassens
+- Carlo Cafiero
+- John Cage
+- Henri Cartier-Bresson
+- Hem Day
+- Lanza Del Vasto
+- Sebastien Faure
+- Leo Ferrer
+- Jean Grave
+- Claude Harmel
 - Marius Jacob
 - Raymond Goethals
+- Andre Lorulot
 - Nestor Makhno
 - Errico Malatesta
+- Herbert Marcuse
 - Louise Michel
 - Octave Mirbeau
+- Michel Onfray
+- Ravachol
 - Elisee Reclus
 - Han Ryner
 - August Spies
+- Laurent Tailhade
 - Henry David Thoreau
 - Leo Tolstoy
+- Raoulk Veniegem
+- Boris Vian
 
 Other well-known anarchists:
 ----------------------------
