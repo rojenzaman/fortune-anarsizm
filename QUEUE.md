@@ -6,17 +6,11 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-Richard Stallman is not an anarchist by any stretch of the word, but his ideas are so profoundly liberatory that I feel the need to give him his own file. Plus, as a fortune developed for a GNU-approved distribution it is only appropriate.
-
 Note: I am already done with the people included with the original English anarchism fortune, and am moving on to the people included with the french anarchism fortune.
 
 Touch-up:
 ---------
 - None
-
-Non-anarchist of honor:
------------------------
-- Richard Stallman
 
 From anarchism-fr:
 ------------------
