@@ -12,6 +12,10 @@ Touch-up:
 ---------
 - None
 
+Non-anarchist of honor:
+-----------------------
+- Richard Stallman
+
 From anarchism-fr:
 ------------------
 - Marius Jacob
