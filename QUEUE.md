@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Georges Brassens
 - Carlo Cafiero
 - John Cage
 - Henri Cartier-Bresson
