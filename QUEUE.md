@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Carlo Cafiero
 - John Cage
 - Henri Cartier-Bresson
 - Hem Day
