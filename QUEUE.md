@@ -40,6 +40,7 @@ From anarchism-fr:
 
 Other well-known anarchists:
 ----------------------------
+- Nikolai Berdyaev
 - Saul Newman
 - Maria Lacerda de Moura
 - Francisco Ferrer
