@@ -76,6 +76,7 @@ Other well-known anarchists:
 - Ivan Illich
 - Kevin Carson
 - Shawn P. Wilbur
+- Zaher Baher
 
 Other anarchist resources:
 --------------------------
