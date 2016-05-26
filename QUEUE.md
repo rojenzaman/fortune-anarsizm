@@ -49,7 +49,6 @@ Other well-known anarchists:
 - Bob Black
 - Lysander Spooner
 - Voltairine de Cleyre
-- Lucy Parsons
 - Haymarket anarchists
 - Jo Labadie
 - Luigi Galleani
