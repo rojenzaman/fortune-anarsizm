@@ -14,8 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Raymond Goethals
-- Andre Lorulot
 - Nestor Makhno
 - Errico Malatesta
 - Herbert Marcuse
