@@ -70,6 +70,7 @@ Other well-known anarchists:
 - Kevin Carson
 - Shawn P. Wilbur
 - Zaher Baher
+- Victor Serge
 
 Other anarchist resources:
 --------------------------
