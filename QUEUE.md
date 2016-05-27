@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Lanza Del Vasto
 - Leo Ferre
 - Claude Harmel
 - Marius Jacob
