@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Leo Ferre
 - Claude Harmel
 - Marius Jacob
 - Raymond Goethals
