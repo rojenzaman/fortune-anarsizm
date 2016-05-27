@@ -16,7 +16,6 @@ From anarchism-fr:
 ------------------
 - Nestor Makhno
 - Errico Malatesta
-- Herbert Marcuse
 - Louise Michel
 - Octave Mirbeau
 - Michel Onfray
