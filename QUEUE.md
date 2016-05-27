@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Marius Jacob
 - Raymond Goethals
 - Andre Lorulot
 - Nestor Makhno
