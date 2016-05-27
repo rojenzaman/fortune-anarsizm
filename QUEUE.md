@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Claude Harmel
 - Marius Jacob
 - Raymond Goethals
 - Andre Lorulot
