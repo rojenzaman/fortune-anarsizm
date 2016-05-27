@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Henri Cartier-Bresson
 - Hem Day
 - Lanza Del Vasto
 - Leo Ferre
