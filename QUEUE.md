@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Hem Day
 - Lanza Del Vasto
 - Leo Ferre
 - Claude Harmel
