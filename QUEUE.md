@@ -19,7 +19,6 @@ From anarchism-fr:
 - Louise Michel
 - Octave Mirbeau
 - Michel Onfray
-- Ravachol
 - Elisee Reclus
 - Han Ryner
 - August Spies
