@@ -17,7 +17,6 @@ From anarchism-fr:
 - Nestor Makhno
 - Errico Malatesta
 - Louise Michel
-- Octave Mirbeau
 - Henry David Thoreau
 - Leo Tolstoy
 - Raoulk Veniegem
