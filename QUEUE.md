@@ -18,7 +18,6 @@ From anarchism-fr:
 - Errico Malatesta
 - Louise Michel
 - Octave Mirbeau
-- Laurent Tailhade
 - Henry David Thoreau
 - Leo Tolstoy
 - Raoulk Veniegem
