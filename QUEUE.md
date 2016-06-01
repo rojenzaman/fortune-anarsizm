@@ -18,7 +18,6 @@ From anarchism-fr:
 - Errico Malatesta
 - Louise Michel
 - Octave Mirbeau
-- Michel Onfray
 - Elisee Reclus
 - Han Ryner
 - August Spies
