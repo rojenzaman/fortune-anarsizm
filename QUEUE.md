@@ -19,7 +19,6 @@ From anarchism-fr:
 - Louise Michel
 - Henry David Thoreau
 - Leo Tolstoy
-- Raoulk Veniegem
 - Boris Vian
 
 Other well-known anarchists:
