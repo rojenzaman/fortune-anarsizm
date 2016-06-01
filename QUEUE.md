@@ -20,7 +20,6 @@ From anarchism-fr:
 - Octave Mirbeau
 - Elisee Reclus
 - Han Ryner
-- August Spies
 - Laurent Tailhade
 - Henry David Thoreau
 - Leo Tolstoy
