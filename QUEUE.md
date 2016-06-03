@@ -18,7 +18,6 @@ From anarchism-fr:
 - Errico Malatesta
 - Louise Michel
 - Henry David Thoreau
-- Leo Tolstoy
 
 Other well-known anarchists:
 ----------------------------
