@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Louise Michel
 - Henry David Thoreau
 
 Other well-known anarchists:
