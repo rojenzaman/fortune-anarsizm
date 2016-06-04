@@ -14,13 +14,15 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Nestor Makhno
 - Errico Malatesta
 - Louise Michel
 - Henry David Thoreau
 
 Other well-known anarchists:
 ----------------------------
+- Janet Biehl
+- Nestor Makhno
+- Peter Arshinov
 - Nikolai Berdyaev
 - Saul Newman
 - Maria Lacerda de Moura
