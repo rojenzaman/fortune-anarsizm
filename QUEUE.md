@@ -8,7 +8,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 In progress:
 ------------
-- Henry David Thoreau
+- None
 
 Other well-known anarchists:
 ----------------------------
