@@ -48,7 +48,6 @@ Other well-known anarchists:
 - Emile Armand
 - Herbert Read
 - David Graeber
-- Joseph Dejacque
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
 - Moxie Marlinspike
