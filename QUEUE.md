@@ -14,7 +14,6 @@ Touch-up:
 
 From anarchism-fr:
 ------------------
-- Errico Malatesta
 - Louise Michel
 - Henry David Thoreau
 
