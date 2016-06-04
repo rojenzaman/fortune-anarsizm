@@ -6,14 +6,8 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-Note: I am already done with the people included with the original English anarchism fortune, and am moving on to the people included with the french anarchism fortune.
-
-Touch-up:
----------
-- None
-
-From anarchism-fr:
-------------------
+In progress:
+------------
 - Henry David Thoreau
 
 Other well-known anarchists:
