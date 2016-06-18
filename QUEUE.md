@@ -10,18 +10,23 @@ In progress:
 ------------
 - None
 
+Next release:
+-------------
+- Janet Biehl
+- Murray Bookchin
+- Bob Black
+- Nestor Makhno
+- Noam Chomsky
+- David Graeber
+
 Other well-known anarchists:
 ----------------------------
-- Janet Biehl
-- Nestor Makhno
 - Peter Arshinov
 - Nikolai Berdyaev
 - Saul Newman
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - George Woodcock
-- Murray Bookchin
-- Bob Black
 - Lysander Spooner
 - Voltairine de Cleyre
 - Haymarket anarchists
@@ -33,7 +38,6 @@ Other well-known anarchists:
 - Elbert Hubbard
 - Maria Nikiforova
 - L. Susan Brown
-- Noam Chomsky
 - Voline
 - Dave Andrews
 - Henry Appleton
@@ -41,7 +45,6 @@ Other well-known anarchists:
 - Buenaventura Durruti
 - Emile Armand
 - Herbert Read
-- David Graeber
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
 - Moxie Marlinspike
