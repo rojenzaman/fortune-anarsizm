@@ -16,7 +16,7 @@ Installation
 ------------
 To install:
 
-    $ sudo make install DISTRO=DEBIAN
+    $ sudo make install distro=debian
 
 To uninstall:
 

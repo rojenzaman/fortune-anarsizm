@@ -1,13 +1,6 @@
 
 SRC	= people
-
-ifeq ($(DISTRO),DEBIAN)
-	TARGET	= /usr/share/games/fortunes/
-else ifeq ($(DISTRO),FEDORA)
-	TARGET	= /usr/share/games/fortune/
-else
-	TARGET	= /usr/share/games/fortune/
-endif
+TARGET	= $(shell sh distro.sh $(distro))
 
 all:		anarchism.dat
 
