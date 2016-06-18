@@ -7,7 +7,7 @@ all:		anarchism.dat
 anarchism.dat:	anarchism
 		@strfile anarchism
 
-anarchism:	people/*
+anarchism:	$(SRC)/*
 		@cat $(SRC)/* > anarchism
 
 clean:;		rm -f anarchism.dat anarchism
