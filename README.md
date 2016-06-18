@@ -20,9 +20,9 @@ To install:
 
 To uninstall:
 
-    $ sudo make uninstall DISTRO=DEBIAN
+    $ sudo make uninstall distro=debian
 
-Where DISTRO=DEBIAN should be replaced with your distribution's name. For example, on Fedora say DISTRO=FEDORA.
+Where distro=debian should be replaced with your distribution's name. For example, on Fedora say distro=fedora.
 
 For supported distribution options, [look here](DISTROS.md).
 
