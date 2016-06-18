@@ -17,8 +17,7 @@ anarchism.dat:	anarchism
 anarchism:	people/*
 		@cat $(SRC)/* > anarchism
 
-clean:;		@echo "cleaning"
-		@rm -f anarchism.dat anarchism
+clean:;		rm -f anarchism.dat anarchism
 
 install:	all
 		cp anarchism $(TARGET)
