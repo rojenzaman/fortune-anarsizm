@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Janet Biehl
 - Murray Bookchin
 - Bob Black
 - Nestor Makhno
