@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Murray Bookchin
 - Bob Black
 - Nestor Makhno
 - Noam Chomsky
