@@ -12,23 +12,28 @@ In progress:
 
 Next release:
 -------------
+- Banksy
+- Malcolm X
+- George Carlin
 - Bob Black
 - Nestor Makhno
 - Noam Chomsky
-- David Graeber
+- Voltairine de Cleyre
+- Lysander Spooner
+- Haymarket anarchists
+- Jo Labadie
+- Moxie Marlinspike
+- Kevin Carson
 
 Other well-known anarchists:
 ----------------------------
+- David Graeber
 - Peter Arshinov
 - Nikolai Berdyaev
 - Saul Newman
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - George Woodcock
-- Lysander Spooner
-- Voltairine de Cleyre
-- Haymarket anarchists
-- Jo Labadie
 - Luigi Galleani
 - Lucia Sanchez Saornil
 - Oscar Wilde
@@ -45,10 +50,8 @@ Other well-known anarchists:
 - Herbert Read
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
-- Moxie Marlinspike
 - Yakoub Islam
 - Ivan Illich
-- Kevin Carson
 - Shawn P. Wilbur
 - Zaher Baher
 - Victor Serge
@@ -69,7 +72,4 @@ To add to a misc. file:
 - Rabindranath Tagore
 - J. R. R. Tolkien
 - Mohandas Gandhi
-- Banksy
-- Malcolm X
 - gmilcomic
-- George Carlin
