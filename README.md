@@ -1,10 +1,8 @@
 BLAG Fortune
 ============
-This is my repository for my ongoing project to have English language anarchist fortunes in BLAG.
+This is my repository for my ongoing project to have English language political fortunes in BLAG.
 
 Currently the only issue is packaging for easy installation. If someone who is familiar with distribution packaging in general, please feel free to make .deb and .rpm packages I can upload.
-
-![red and black star](rb-star.png)
 
 Requirements
 ------------
