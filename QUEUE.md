@@ -8,17 +8,15 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 In progress:
 ------------
-- None
+- Noam Chomsky
+- Malcolm X
 
 Next release:
 -------------
 - Banksy
-- Malcolm X
 - George Carlin
 - Bob Black
 - Nestor Makhno
-- Noam Chomsky
-- Voltairine de Cleyre
 - Lysander Spooner
 - Haymarket anarchists
 - Jo Labadie
