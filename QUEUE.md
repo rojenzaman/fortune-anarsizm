@@ -8,8 +8,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 In progress:
 ------------
-- Noam Chomsky
-- Malcolm X
+- None
 
 Next release:
 -------------
