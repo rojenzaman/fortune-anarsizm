@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- George Carlin
 - Bob Black
 - Nestor Makhno
 - Lysander Spooner
