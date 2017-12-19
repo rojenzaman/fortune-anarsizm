@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Bob Black
 - Nestor Makhno
 - Lysander Spooner
 - Haymarket anarchists
