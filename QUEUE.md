@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Banksy
 - George Carlin
 - Bob Black
 - Nestor Makhno
