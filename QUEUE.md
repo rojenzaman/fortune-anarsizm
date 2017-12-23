@@ -12,8 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Haymarket anarchists
-- Jo Labadie
 - Moxie Marlinspike
 - Kevin Carson
 
