@@ -10,10 +10,6 @@ In progress:
 ------------
 - None
 
-Next release:
--------------
-- Kevin Carson
-
 Other well-known anarchists:
 ----------------------------
 - David Graeber
