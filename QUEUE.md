@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Moxie Marlinspike
 - Kevin Carson
 
 Other well-known anarchists:
