@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Lysander Spooner
 - Haymarket anarchists
 - Jo Labadie
 - Moxie Marlinspike
