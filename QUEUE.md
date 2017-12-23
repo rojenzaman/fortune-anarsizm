@@ -12,7 +12,6 @@ In progress:
 
 Next release:
 -------------
-- Nestor Makhno
 - Lysander Spooner
 - Haymarket anarchists
 - Jo Labadie
