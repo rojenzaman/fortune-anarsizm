@@ -6,33 +6,35 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-In progress:
-------------
-- None
-
-Other well-known anarchists:
-----------------------------
+Next release:
+-------------
 - David Graeber
+- Saul Newman
+- George Woodcock
+- Oscar Wilde
+- L. Susan Brown
+- Dave Andrews
+- Herbert Read
+- Diggers pamphlet
+- Famous Quakers
+- J. R. R. Tolkien
 - Peter Arshinov
 - Nikolai Berdyaev
-- Saul Newman
+
+For later:
+----------
 - Maria Lacerda de Moura
 - Francisco Ferrer
-- George Woodcock
 - Luigi Galleani
 - Lucia Sanchez Saornil
-- Oscar Wilde
 - Hakim Bey
 - Elbert Hubbard
 - Maria Nikiforova
-- L. Susan Brown
 - Voline
-- Dave Andrews
 - Henry Appleton
 - Adolph Fischer
 - Buenaventura Durruti
 - Emile Armand
-- Herbert Read
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
 - Yakoub Islam
@@ -52,9 +54,9 @@ To add to a misc. file:
 -----------------------
 - Zeno of Citium
 - Laozi
-- Diggers pamphlet
-- Famous Quakers
 - Rabindranath Tagore
-- J. R. R. Tolkien
 - Mohandas Gandhi
 - gmilcomic
+
+
+
