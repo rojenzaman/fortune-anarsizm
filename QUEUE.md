@@ -42,6 +42,7 @@ For later:
 - Shawn P. Wilbur
 - Zaher Baher
 - Victor Serge
+- Murray Bookchin
 
 Other anarchist resources:
 --------------------------
