@@ -8,7 +8,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 Next release:
 -------------
-- David Graeber
+- ~~David Graeber~~
 - Saul Newman
 - George Woodcock
 - Oscar Wilde
