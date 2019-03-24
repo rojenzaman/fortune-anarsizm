@@ -9,7 +9,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 Next release:
 -------------
 - ~~David Graeber~~
-- Saul Newman
+- ~~Saul Newman~~
 - George Woodcock
 - Oscar Wilde
 - L. Susan Brown
