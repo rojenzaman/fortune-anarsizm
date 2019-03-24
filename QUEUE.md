@@ -10,7 +10,7 @@ Next release:
 -------------
 - ~~David Graeber~~
 - ~~Saul Newman~~
-- George Woodcock
+- ~~George Woodcock~~
 - Oscar Wilde
 - L. Susan Brown
 - Dave Andrews
