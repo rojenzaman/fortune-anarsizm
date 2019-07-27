@@ -43,6 +43,7 @@ For later:
 - Zaher Baher
 - Victor Serge
 - Murray Bookchin
+- Randolph Bourne
 
 Other anarchist resources:
 --------------------------
