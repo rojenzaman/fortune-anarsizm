@@ -12,7 +12,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Saul Newman~~
 - ~~George Woodcock~~
 - ~~Oscar Wilde~~
-- Diggers pamphlet
+- ~~Diggers pamphlet~~
 - Famous Quakers
 - Peter Arshinov
 
