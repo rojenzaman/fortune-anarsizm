@@ -13,7 +13,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~George Woodcock~~
 - ~~Oscar Wilde~~
 - ~~Diggers pamphlet~~
-- Famous Quakers
+- ~~Famous Quakers~~
 - Peter Arshinov
 
 1.5.0
