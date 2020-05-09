@@ -11,7 +11,7 @@ Next release:
 - ~~David Graeber~~
 - ~~Saul Newman~~
 - ~~George Woodcock~~
-- Oscar Wilde
+- ~~Oscar Wilde~~
 - L. Susan Brown
 - Dave Andrews
 - Herbert Read
