@@ -6,16 +6,6 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-1.4.0
------
-- ~~David Graeber~~
-- ~~Saul Newman~~
-- ~~George Woodcock~~
-- ~~Oscar Wilde~~
-- ~~Diggers pamphlet~~
-- ~~Famous Quakers~~
-- ~~Peter Arshinov~~
-
 1.5.0
 -----
 - J. R. R. Tolkien
