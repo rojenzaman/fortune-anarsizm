@@ -14,7 +14,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Oscar Wilde~~
 - ~~Diggers pamphlet~~
 - ~~Famous Quakers~~
-- Peter Arshinov
+- ~~Peter Arshinov~~
 
 1.5.0
 -----
