@@ -8,8 +8,8 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 1.5.0
 -----
-- J. R. R. Tolkien
-- Nikolai Berdyaev
+- ~~J. R. R. Tolkien~~
+- ~~Nikolai Berdyaev~~
 - L. Susan Brown
 - Dave Andrews
 - Herbert Read
