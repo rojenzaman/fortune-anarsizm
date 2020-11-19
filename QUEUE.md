@@ -16,6 +16,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 For later:
 ----------
+- Rudolf Rocker
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - Luigi Galleani
