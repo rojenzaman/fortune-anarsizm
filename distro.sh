@@ -8,6 +8,8 @@ elif [ $distro = "debian" ]; then
 	echo "/usr/share/games/fortunes/"
 elif [ $distro = "fedora" ]; then
 	echo "/usr/share/games/fortune/"
+elif [ $distro = "arch" ]; then
+	echo "/usr/share/fortune"
 else
 	echo "Unknown distribution" $distro
 fi
