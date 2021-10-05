@@ -8,7 +8,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 1.6.0 - mutualist edition
 -----
-- Josiah Warren
+- ~~Josiah Warren~~
 - Emile Armand
 - Lev Chernyi
 - Mario Ferreira dos Santos
