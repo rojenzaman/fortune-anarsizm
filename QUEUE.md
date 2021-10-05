@@ -6,6 +6,16 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
+1.6.0 - mutualist edition
+-----
+- Josiah Warren
+- Emile Armand
+- Lev Chernyi
+- Mario Ferreira dos Santos
+- Leopold Kohr
+- Paul Goodman
+- Robert Anton Wilson
+
 For later:
 ----------
 - L. Susan Brown
@@ -24,7 +34,6 @@ For later:
 - Henry Appleton
 - Adolph Fischer
 - Buenaventura Durruti
-- Emile Armand
 - Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
 - Yakoub Islam
