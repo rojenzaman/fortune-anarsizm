@@ -1,6 +1,6 @@
 
 SRC	= people
-TARGET	= $(shell sh distro.sh $(distro))
+TARGET	= $(DESTDIR)$(shell sh distro.sh $(distro))
 
 all:		anarchism.dat
 
