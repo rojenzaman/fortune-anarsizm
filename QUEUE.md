@@ -16,6 +16,27 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - Paul Goodman
 - Robert Anton Wilson
 
+1.7.0 - communist edition
+-----
+- Jean Grave
+- Ricardo Flores Magon
+- Daniel Guerin
+- Camillo Berneri
+- Georges Fontenis
+- Murray Bookchin
+
+1.8.0 - insurrectionist edition
+-----
+- Giuseppe Fanelli
+- Clement Duval
+- Gaetano Bresci
+- Jules Bonnot
+- Renzo Novatore
+- Bruno Filippi
+- Severino Di Giovanni
+- Josep Lluis i Facerias
+- Alfredo Bonanno
+
 For later:
 ----------
 - L. Susan Brown
@@ -34,14 +55,12 @@ For later:
 - Henry Appleton
 - Adolph Fischer
 - Buenaventura Durruti
-- Ricardo Flores Magon
 - Ferdinand Domela Nieuwenhuis
 - Yakoub Islam
 - Ivan Illich
 - Shawn P. Wilbur
 - Zaher Baher
 - Victor Serge
-- Murray Bookchin
 - Randolph Bourne
 
 Other anarchist resources:
