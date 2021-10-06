@@ -9,8 +9,8 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 1.7.0 - communist edition
 -----
 - ~~Jean Grave~~
-- Ricardo Flores Magon
-- Daniel Guerin
+- ~~Ricardo Flores Magon~~
+- ~~Daniel Guerin~~
 - Camillo Berneri
 - Georges Fontenis
 - Murray Bookchin
