@@ -27,9 +27,20 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - Josep Lluis i Facerias
 - Alfredo Bonanno
 
+1.9.0 - syndicalist edition
+---
+- Sam Mainwaring
+- James Guillaume
+- Ricardo Mella
+- Fernand Pelloutier
+- Rudolf Rocker
+- Salvador Segui
+- Gregori Maximoff
+- Buenaventura Durruti
+- Abel Paz
+
 For later:
 ----------
-- Rudolf Rocker
 - Ursula LeGuin
 - Octavia Butler
 - Tom Morello
@@ -47,7 +58,6 @@ For later:
 - Voline
 - Henry Appleton
 - Adolph Fischer
-- Buenaventura Durruti
 - Ferdinand Domela Nieuwenhuis
 - Yakoub Islam
 - Ivan Illich
