@@ -12,7 +12,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Emile Armand~~
 - ~~Lev Chernyi~~
 - ~~Mario Ferreira dos Santos~~
-- Leopold Kohr
+- ~~Leopold Kohr~~
 - Paul Goodman
 - Robert Anton Wilson
 
