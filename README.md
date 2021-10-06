@@ -67,4 +67,4 @@ I have four sources for all my quotes:
 - [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
 - [Marxists Internet Archive](https://marxists.org)
 - [The Anarchist Library](http://theanarchistlibrary.org)
-
+- [Libertarian Labyrinth](https://www.libertarian-labyrinth.org)
