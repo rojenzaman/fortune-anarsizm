@@ -11,7 +11,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Josiah Warren~~
 - ~~Emile Armand~~
 - ~~Lev Chernyi~~
-- Mario Ferreira dos Santos
+- ~~Mario Ferreira dos Santos~~
 - Leopold Kohr
 - Paul Goodman
 - Robert Anton Wilson
