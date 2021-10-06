@@ -14,7 +14,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Mario Ferreira dos Santos~~
 - ~~Leopold Kohr~~
 - ~~Paul Goodman~~
-- Robert Anton Wilson
+- ~~Robert Anton Wilson~~
 
 1.7.0 - communist edition
 -----
