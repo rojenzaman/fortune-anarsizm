@@ -10,3 +10,4 @@ Here are the currently supported distributions. If you want your distribution su
 
 - debian: works for Debian and Ubuntu-based distributions.
 - fedora: works for Fedora-based distributions.
+- arch: works for Arch-based distributions.
