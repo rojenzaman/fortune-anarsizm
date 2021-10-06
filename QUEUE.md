@@ -39,11 +39,14 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 For later:
 ----------
+- Rudolf Rocker
+- Ursula LeGuin
+- Octavia Butler
+- Tom Morello
 - L. Susan Brown
 - Dave Andrews
 - Herbert Read
 - Vermin Supreme
-- Rudolf Rocker
 - Maria Lacerda de Moura
 - Francisco Ferrer
 - Luigi Galleani
