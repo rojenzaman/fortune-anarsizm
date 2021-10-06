@@ -10,7 +10,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 -----
 - ~~Josiah Warren~~
 - ~~Emile Armand~~
-- Lev Chernyi
+- ~~Lev Chernyi~~
 - Mario Ferreira dos Santos
 - Leopold Kohr
 - Paul Goodman
