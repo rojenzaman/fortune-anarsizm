@@ -6,15 +6,6 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-1.7.0 - communist edition
------
-- ~~Jean Grave~~
-- ~~Ricardo Flores Magon~~
-- ~~Daniel Guerin~~
-- ~~Camillo Berneri~~
-- ~~Georges Fontenis~~
-- ~~Murray Bookchin~~
-
 1.8.0 - insurrectionist edition
 -----
 - Giuseppe Fanelli
