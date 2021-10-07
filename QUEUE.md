@@ -13,7 +13,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Daniel Guerin~~
 - ~~Camillo Berneri~~
 - ~~Georges Fontenis~~
-- Murray Bookchin
+- ~~Murray Bookchin~~
 
 1.8.0 - insurrectionist edition
 -----
