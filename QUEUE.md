@@ -11,7 +11,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Jean Grave~~
 - ~~Ricardo Flores Magon~~
 - ~~Daniel Guerin~~
-- Camillo Berneri
+- ~~Camillo Berneri~~
 - Georges Fontenis
 - Murray Bookchin
 
