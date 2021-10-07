@@ -6,24 +6,14 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-1.6.0 - mutualist edition
------
-- ~~Josiah Warren~~
-- ~~Emile Armand~~
-- ~~Lev Chernyi~~
-- ~~Mario Ferreira dos Santos~~
-- ~~Leopold Kohr~~
-- ~~Paul Goodman~~
-- ~~Robert Anton Wilson~~
-
 1.7.0 - communist edition
 -----
-- Jean Grave
-- Ricardo Flores Magon
-- Daniel Guerin
-- Camillo Berneri
-- Georges Fontenis
-- Murray Bookchin
+- ~~Jean Grave~~
+- ~~Ricardo Flores Magon~~
+- ~~Daniel Guerin~~
+- ~~Camillo Berneri~~
+- ~~Georges Fontenis~~
+- ~~Murray Bookchin~~
 
 1.8.0 - insurrectionist edition
 -----
@@ -37,9 +27,20 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - Josep Lluis i Facerias
 - Alfredo Bonanno
 
+1.9.0 - syndicalist edition
+---
+- Sam Mainwaring
+- James Guillaume
+- Ricardo Mella
+- Fernand Pelloutier
+- Rudolf Rocker
+- Salvador Segui
+- Gregori Maximoff
+- Buenaventura Durruti
+- Abel Paz
+
 For later:
 ----------
-- Rudolf Rocker
 - Ursula LeGuin
 - Octavia Butler
 - Tom Morello
@@ -57,7 +58,6 @@ For later:
 - Voline
 - Henry Appleton
 - Adolph Fischer
-- Buenaventura Durruti
 - Ferdinand Domela Nieuwenhuis
 - Yakoub Islam
 - Ivan Illich
