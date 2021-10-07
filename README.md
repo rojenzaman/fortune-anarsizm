@@ -62,9 +62,11 @@ To disable the fortunes, remove these lines from $HOME/.bashrc:
 
 Quote Sources
 -------------
-I have four sources for all my quotes:
+I have several sources for most of my quotes:
 - [Wikiquote](https://en.wikiquote.org)
 - [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
 - [Marxists Internet Archive](https://marxists.org)
 - [The Anarchist Library](http://theanarchistlibrary.org)
 - [Libertarian Labyrinth](https://www.libertarian-labyrinth.org)
+
+Unfortunately some writings do not have an English translation, so I rely on machine translations from other various sources.
