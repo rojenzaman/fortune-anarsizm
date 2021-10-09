@@ -10,7 +10,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 -----
 - ~~Clement Duval~~
 - ~~Gaetano Bresci~~
-- Jules Bonnot
+- ~~Jules Bonnot~~
 - Renzo Novatore
 - Bruno Filippi
 - Severino Di Giovanni
