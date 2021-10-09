@@ -8,7 +8,6 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 
 1.8.0 - insurrectionist edition
 -----
-- Giuseppe Fanelli
 - Clement Duval
 - Gaetano Bresci
 - Jules Bonnot
