@@ -11,7 +11,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Clement Duval~~
 - ~~Gaetano Bresci~~
 - ~~Jules Bonnot~~
-- Renzo Novatore
+- ~~Renzo Novatore~~
 - Bruno Filippi
 - Severino Di Giovanni
 - Josep Lluis i Facerias
