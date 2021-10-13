@@ -13,7 +13,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Jules Bonnot~~
 - ~~Renzo Novatore~~
 - ~~Bruno Filippi~~
-- Severino Di Giovanni
+- ~~Severino Di Giovanni~~
 - Josep Lluis i Facerias
 - Alfredo Bonanno
 
