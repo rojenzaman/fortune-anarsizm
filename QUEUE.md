@@ -14,7 +14,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Renzo Novatore~~
 - ~~Bruno Filippi~~
 - ~~Severino Di Giovanni~~
-- Josep Lluis i Facerias
+- Germaine Berton
 - Alfredo Bonanno
 
 1.9.0 - syndicalist edition
