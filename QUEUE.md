@@ -15,7 +15,7 @@ The miscellaneous file allows for non-anarchists who had some ideas which are in
 - ~~Bruno Filippi~~
 - ~~Severino Di Giovanni~~
 - ~~Germaine Berton~~
-- Alfredo Bonanno
+- ~~Alfredo Bonanno~~
 
 1.9.0 - syndicalist edition
 ---
