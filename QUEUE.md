@@ -6,17 +6,6 @@ Because the French anarchist fortune has a disproportionate number of French thi
 
 The miscellaneous file allows for non-anarchists who had some ideas which are in the spirit of anarchism, for example Bertrand Russell and, er, J. R. R. Tolkien. However, explicit anarchists get priority.
 
-1.8.0 - insurrectionist edition
------
-- ~~Clement Duval~~
-- ~~Gaetano Bresci~~
-- ~~Jules Bonnot~~
-- ~~Renzo Novatore~~
-- ~~Bruno Filippi~~
-- ~~Severino Di Giovanni~~
-- ~~Germaine Berton~~
-- ~~Alfredo Bonanno~~
-
 1.9.0 - syndicalist edition
 ---
 - Sam Mainwaring
