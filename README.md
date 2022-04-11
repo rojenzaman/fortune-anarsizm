@@ -10,6 +10,7 @@ All you need is fortune mod. On Debian-based systems:
     $ sudo apt-get install fortune-mod
 
 On Fedora-based systems:
+
     $ sudo dnf install fortune-mod
 
 Installation
