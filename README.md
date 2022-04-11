@@ -1,12 +1,16 @@
-BLAG Fortune
+Kara Terminal (fortune-anarsizm)
 ============
-This is my repository for my ongoing project to have English language political fortunes in BLAG.
+This is a project to have Turkish-speaking political fortunes in unix.
+This project forked for Turkish speakers from [Blag Fortune](https://notabug.org/PangolinTurtle/BLAG-fortune).
 
 Requirements
 ------------
 All you need is fortune mod. On Debian-based systems:
 
     $ sudo apt-get install fortune-mod
+
+On Fedora-based systems:
+    $ sudo dnf install fortune-mod
 
 Installation
 ------------
@@ -26,20 +30,21 @@ Running
 -------
 To run the program, simply say
 
-    $ fortune anarchism
-    When the people are being beaten with a stick, they are not much happier 
-    if it is called "the People's Stick."
-                ----+- Mikhail Bakunin -+----
+    $ fortune anarsizm
+    Her emir özgürlüğün suratında patlayan bir tokattır.
+    		-- Mikhail Bakunin
 
 Here is a more whimsical example:
 
-    $ fortune anarchism | cowsay
+    $ fortune anarsizm | cowsay
      _________________________________________
-    / Whosoever lays a hand on me in order to \
-    | govern me is a usurper and a tyrant; I  |
-    | declare him my enemy.                   |
+    / Haydi, yıkıcı ve imha edici sonsuz ruha \
+    | güvenelim, çünkü bu bilinmez ve sonsuz  |
+    | ruh, tüm hayatın kaynağıdır. Yıkma      |
+    | güdüsü, aynı zamanda yaratıcı bir       |
+    | güdüdür.                                |
     |                                         |
-    \ ----+- Pierre-Joseph Proudhon -+----    /
+    \ -- Mikhail Bakunin                      /
      -----------------------------------------
             \   ^__^
              \  (oo)\_______
@@ -53,20 +58,19 @@ Show fortunes on Bash startup
 
 To do this quickly, enter the following command:
 
-    $ echo -e "\nfortune -s anarchism\necho" >> $HOME/.bashrc
+    $ echo -e "\nfortune -s anarsizm\necho" >> $HOME/.bashrc
 
 To disable the fortunes, remove these lines from $HOME/.bashrc:
 
-    fortune -s anarchism
+    fortune -s anarsizm
     echo
 
 Quote Sources
 -------------
 I have several sources for most of my quotes:
-- [Wikiquote](https://en.wikiquote.org)
-- [BrainyQuote](https://www.brainyquote.com) (Generally requires verification)
-- [Marxists Internet Archive](https://marxists.org)
-- [The Anarchist Library](http://theanarchistlibrary.org)
-- [Libertarian Labyrinth](https://www.libertarian-labyrinth.org)
+- [Vikisöz](https://tr.wikiquote.org)
+- [Anarşist Kütüphane](tr.anarchistlibraries.net)
+- [@anarsist_sozler](https://twitter.com/anarsist_sozler)
+- [1000kitap](https://1000kitap.com)
 
-Unfortunately some writings do not have an English translation, so I rely on machine translations from other various sources.
+Unfortunately some writings do not have an Turkish translation, so I rely on machine translations from other various sources.

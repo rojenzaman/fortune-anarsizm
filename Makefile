@@ -2,19 +2,19 @@
 SRC	= people
 TARGET	= $(DESTDIR)$(shell sh distro.sh $(distro))
 
-all:		anarchism.dat
+all:		anarsizm.dat
 
-anarchism.dat:	anarchism
-		@strfile anarchism
+anarsizm.dat:	anarsizm
+		@strfile anarsizm
 
-anarchism:	$(SRC)/*
-		@cat $(SRC)/* > anarchism
+anarsizm:	$(SRC)/*
+		@cat $(SRC)/* > anarsizm
 
-clean:;		rm -f anarchism.dat anarchism
+clean:;		rm -f anarsizm.dat anarsizm
 
 install:	all
-		cp anarchism $(TARGET)
-		cp anarchism.dat $(TARGET)
+		cp anarsizm $(TARGET)
+		cp anarsizm.dat $(TARGET)
 
-uninstall:;	rm $(TARGET)/anarchism
-		rm $(TARGET)/anarchism.dat
+uninstall:;	rm $(TARGET)/anarsizm
+		rm $(TARGET)/anarsizm.dat

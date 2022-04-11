@@ -2,21 +2,21 @@
 SRC=people
 INSTALLDIR=`sh distro.sh $distro`
 
-all: anarchism.dat
+all: anarsizm.dat
 
-anarchism.dat: anarchism
-	strfile anarchism
+anarsizm.dat: anarsizm
+	strfile anarsizm
 
-anarchism: $SRC
-	cat $SRC/* > anarchism
+anarsizm: $SRC
+	cat $SRC/* > anarsizm
 
 clean:V:
-	rm -f anarchism.dat anarchism
+	rm -f anarsizm.dat anarsizm
 
 install:V: all
-	cp anarchism $INSTALLDIR
-	cp anarchism.dat $INSTALLDIR
+	cp anarsizm $INSTALLDIR
+	cp anarsizm.dat $INSTALLDIR
 
 uninstall:V:
-	rm $INSTALLDIR/anarchism
-	rm $INSTALLDIR/anarchism.dat
+	rm $INSTALLDIR/anarsizm
+	rm $INSTALLDIR/anarsizm.dat
