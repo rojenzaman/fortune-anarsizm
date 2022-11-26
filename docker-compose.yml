@@ -8,5 +8,7 @@ services:
         MAX_CLIENTS: 10
         TTYD_PORT: 7682
         TARGETARCH: x86_64
+    image: rojen/fortune-anarsizm:ttyd
+    container_name: fortune-anarsizm-ttyd
     ports:
         - '7682:7682'
